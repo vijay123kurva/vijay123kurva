@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30" >
  
 <div align="center">
-<img alt="my picture" src="vijaykumar.jpeg">
+<img alt="my picture" src="Vijay kumar.png">
 </div>
 
 
