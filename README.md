@@ -30,16 +30,7 @@
 ### Tools & Technologies:
 - Git
 - GitHub
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay123kurva&show_icons=true&count_private=true&hide_title=true)
-
-Feel free to explore my repositories and projects. Let’s connect and collaborate!
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay123kurva&hide_border=true" />
-</details>
 
 
 # Connect with me
