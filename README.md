@@ -15,33 +15,32 @@
 - 🎨 My hobby : I love to watch movies. 
 
 
-# My Tech Stack
+## 🚀 Tech Stack
 
-**Programming Languages**
+### Programming Languages:
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
 
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>|<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>|
-|--|--|--|
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>|<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">|
+### Databases:
+- MySQL
 
+### Tools & Technologies:
+- Git
+- GitHub
+## 📈 GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay123kurva&show_icons=true&count_private=true&hide_title=true)
 
-**Databases**
+Feel free to explore my repositories and projects. Let’s connect and collaborate!
 
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>|<img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>|
-|--|--|--|
-
-
-**Other Tools**
-
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>|<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>|<img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>|
-|--|--|--|
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>|<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">|<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-<br>
-
-<summary><b>☄️ Github Streaks</b></summary>
-<details open>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay123kurva&hide_border=true" />
-</details> 
+</details>
+
 
 # Connect with me
 
